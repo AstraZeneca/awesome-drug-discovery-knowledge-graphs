@@ -9,3 +9,26 @@
   - [[Construction Code]](https://github.com/dhimmel/integrate)
   - [[Website]](https://het.io/)
 
+- **Drug Repurposing Knowledge Graph (DRKG) (arXiv 2020)**
+  - Ioannidis, Vassilis N., Xiang Song, Saurav Manchanda, Mufei Li, Xiaoqin Pan, Da Zheng, Xia Ning, Xiangxiang Zeng, and George Karypis.
+  - [[Paper]](https://github.com/gnn4dr/DRKG/blob/master/DRKG%20Drug%20Repurposing%20Knowledge%20Graph.pdf)
+  - [[Dataset Download]](https://github.com/gnn4dr/DRKG)
+
+- **BioKG (CIKM 2020)**
+  - Walsh, Brian, Sameh K. Mohamed, and Vít Nováček.
+  - [[Paper]](https://dl.acm.org/doi/10.1145/3340531.3412776)
+  - [[Dataset Download]](https://github.com/dsi-bdi/biokg/releases/tag/v1.0.0)
+  - [[Construction Code]](https://github.com/dsi-bdi/biokg)
+
+- **OpenBioLink (Bioinformatics 2020)**
+  - Breit, Anna, Simon Ott, Asan Agibetov, and Matthias Samwald.
+  - [[Paper]](https://arxiv.org/abs/1912.04616)
+  - [[Dataset Download]](https://zenodo.org/record/3834052)
+  - [[Construction Code]](https://github.com/OpenBioLink/OpenBioLink)
+  - [[Website]](https://openbiolink.github.io/)
+
+- **PharmKG (Briefings in Bioinformatics 2020)**
+  - Zheng, Shuangjia, Jiahua Rao, Ying Song, Jixian Zhang, Xianglu Xiao, Evandro Fei Fang, Yuedong Yang, and Zhangming Niu.
+  - [[Paper]](https://doi.org/10.1093/bib/bbaa344)
+  - [[Dataset Download]](https://zenodo.org/record/4077338)
+  - [[Website]](https://github.com/MindRank-Biotech/PharmKG)

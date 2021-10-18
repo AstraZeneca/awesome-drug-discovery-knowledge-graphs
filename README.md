@@ -7,12 +7,27 @@
 A collection of datasets and associated research papers related to knowledge graphs suitable for use in drug discovery.
 
 <p align="center">
-  <img width="500" src="https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/raw/master/kg-drug-discovery.png">
+  <img width="400" src="https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/raw/master/kg-drug-discovery.png">
 </p>
 
 ## Contents  
 
 1. [Drug Discovery Knowledge Graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/drug_discovery_kgs.md)
+
+--------------------------------------------------------------------------------
+
+## Cite
+
+Please cite the associated paper for this repo if you find is useful:
+
+```
+@article{bonner2021review,
+  title={A review of biomedical datasets relating to drug discovery: A knowledge graph perspective},
+  author={Bonner, Stephen and Barrett, Ian P and Ye, Cheng and Swiers, Rowan and Engkvist, Ola and Bender, Andreas and Hoyt, Charles Tapley and Hamilton, William},
+  journal={arXiv preprint arXiv:2102.10062},
+  year={2021}
+}
+```
 
 --------------------------------------------------------------------------------
 
