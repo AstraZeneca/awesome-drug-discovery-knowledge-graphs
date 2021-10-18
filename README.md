@@ -18,7 +18,7 @@ A collection of datasets and associated research papers related to knowledge gra
 
 ## Cite
 
-Please cite the associated paper for this repo if you find is useful:
+Please cite the associated paper for this repo if you find it useful:
 
 ```
 @article{bonner2021review,
