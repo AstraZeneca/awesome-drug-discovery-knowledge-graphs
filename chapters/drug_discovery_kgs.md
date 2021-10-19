@@ -32,3 +32,23 @@
   - [[Paper]](https://doi.org/10.1093/bib/bbaa344)
   - [[Dataset Download]](https://zenodo.org/record/4077338)
   - [[Website]](https://github.com/MindRank-Biotech/PharmKG)
+
+- **Clinical Knowledge Graph (CKG) (bioRxiv 2020)**
+  - Santos, Alberto, Ana R. Colaço, Annelaura B. Nielsen, Lili Niu, Philipp E. Geyer, Fabian Coscia, Nicolai J. Wewer Albrechtsen, Filip Mundt, Lars Juhl Jensen, and Matthias Mann.
+  - [[Paper]](https://doi.org/10.1093/bib/bbaa344)
+  - [[Dataset Download]](https://data.mendeley.com/datasets/mrcf7f4tc2/1)
+  - [[Website]](https://ckg.readthedocs.io/en/latest/)
+  - [[Construction Code]](https://github.com/MannLabs/CKG)
+
+### Other Biomedical Graph
+
+- **Stanford Biomedical Network Dataset Collection (BioSNAP) (2018)**
+  - Santos, Alberto, Ana R. Colaço, Annelaura B. Nielsen, Lili Niu, Philipp E. Geyer, Fabian Coscia, Nicolai J. Wewer Albrechtsen, Filip Mundt, Lars Juhl Jensen, and Matthias Mann.
+  - [[Dataset Download]](https://snap.stanford.edu/biodata/index.html)
+  - [[Construction Code]](https://snap.stanford.edu/mambo/)
+
+- **Bio2RDF (Biomedical Informatics 2014)**
+  - Dumontier, Michel, Alison Callahan, Jose Cruz-Toledo, Peter Ansell, Vincent Emonet, François Belleau, and Arnaud Droit. 
+  - [[Paper]](https://www.researchgate.net/profile/Francois-Belleau/publication/287066655_Bio2RDF_release_3_A_larger_connected_network_of_linked_data_for_the_life_sciences/links/6033cb0b299bf1cc26e43cf5/Bio2RDF-release-3-A-larger-connected-network-of-linked-data-for-the-life-sciences.pdf)
+  - [[Dataset Download]](https://download.bio2rdf.org/#/)
+  - [[Website]](https://bio2rdf.org/)
