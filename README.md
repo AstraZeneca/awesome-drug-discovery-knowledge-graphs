@@ -13,7 +13,8 @@ A collection of datasets and associated research papers related to knowledge gra
 ## Contents  
 
 1. [Source Datasets](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/source_datasets.md)
-2. [Drug Discovery Knowledge Graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/drug_discovery_kgs.md)
+2. [Biomedical Ontologies](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/ontologies.md)
+3. [Drug Discovery Knowledge Graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/drug_discovery_kgs.md)
 
 --------------------------------------------------------------------------------
 
