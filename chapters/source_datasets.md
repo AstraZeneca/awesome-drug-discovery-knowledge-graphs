@@ -60,7 +60,6 @@
   - [[Paper]](https://academic.oup.com/nar/article/27/1/29/1238108)
   - [[Website]](https://www.genome.jp/kegg/pathway.html)
 
-
 ### Disease
 
 - **KEGG Disease (Nucleic Acids Research 2007)**
@@ -87,3 +86,35 @@
   - Buniello, Annalisa, Jacqueline A. L. MacArthur, Maria Cerezo, Laura W. Harris, James Hayhurst, Cinzia Malangone, Aoife McMahon et al.
   - [[Paper]](https://academic.oup.com/nar/article/47/D1/D1005/5184712?login=true)
   - [[Website]](https://www.ebi.ac.uk/gwas/)
+
+### Drugs & Compounds
+
+- **ChEMBL (Nucleic Acids Research 2012)**
+  - Gaulton, Anna, Louisa J. Bellis, A. Patricia Bento, Jon Chambers, Mark Davies, Anne Hersey, Yvonne Light et al. 
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3245175/)
+  - [[Website]](https://www.ebi.ac.uk/chembl/)
+
+- **PubChem (Nucleic Acids Research 2016)**
+  - Kim, Sunghwan, Paul A. Thiessen, Evan E. Bolton, Jie Chen, Gang Fu, Asta Gindulyte, Lianyi Han et al.
+  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/26400175/)
+  - [[Website]](https://pubchem.ncbi.nlm.nih.gov/)
+
+- **DrugBank (Nucleic Acids Research 2008)**
+  - Wishart, David S., Craig Knox, An Chi Guo, Dean Cheng, Savita Shrivastava, Dan Tzur, Bijaya Gautam, and Murtaza Hassanali.
+  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/26400175/)
+  - [[Website]](https://go.drugbank.com/)
+
+- **DrugCentral(Nucleic Acids Research 2017)**
+  - Ursu, Oleg, Jayme Holmes, Jeffrey Knockel, Cristian G. Bologa, Jeremy J. Yang, Stephen L. Mathias, Stuart J. Nelson, and Tudor I. Oprea.
+  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/27789690/)
+  - [[Website]](https://drugcentral.org/)
+
+- **Binding DB (Combinatorial Chemistry & High Throughput Screening 2001)**
+  - Chen, Xi, Ming Liu, and Michael K. Gilson.
+  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/11812264/)
+  - [[Website]](https://www.bindingdb.org/bind/index.jsp)
+
+- **RepoDB (Scientific Data 2017)**
+  - Brown, Adam S., and Chirag J. Patel.
+  - [[Paper]](https://www.nature.com/articles/sdata201729)
+  - [[Website]](http://apps.chiragjpgroup.org/repoDB/)
