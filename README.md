@@ -10,17 +10,12 @@ A collection of datasets and associated research papers related to knowledge gra
   <img width="400" src="https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/raw/master/kg-drug-discovery.png">
 </p>
 
-## Contents  
 
-1. [Source Datasets](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/source_datasets.md)
-2. [Biomedical Ontologies](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/ontologies.md)
-3. [Drug Discovery Knowledge Graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/drug_discovery_kgs.md)
+## The Survey Paper
 
---------------------------------------------------------------------------------
+This repository accompanies our survey paper [A Review of Biomedical Datasets Relating to Drug Discovery: A Knowledge Graph Perspective](https://arxiv.org/abs/2102.10062).
 
-## Cite
-
-Please cite the associated paper for this repo if you find it useful:
+Please consider citing the paper for this repo if you find it useful:
 
 ```
 @article{bonner2021review,
@@ -30,6 +25,15 @@ Please cite the associated paper for this repo if you find it useful:
   year={2021}
 }
 ```
+
+-----------------------------------------------------------------
+
+## Contents  
+
+1. [Source Datasets](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/source_datasets.md)
+2. [Biomedical Ontologies](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/ontologies.md)
+3. [Drug Discovery Knowledge Graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/drug_discovery_kgs.md)
+
 
 --------------------------------------------------------------------------------
 
