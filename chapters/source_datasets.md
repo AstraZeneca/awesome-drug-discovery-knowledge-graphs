@@ -59,3 +59,31 @@
   - Ogata, Hiroyuki, Susumu Goto, Kazushige Sato, Wataru Fujibuchi, Hidemasa Bono, and Minoru Kanehisa.
   - [[Paper]](https://academic.oup.com/nar/article/27/1/29/1238108)
   - [[Website]](https://www.genome.jp/kegg/pathway.html)
+
+
+### Disease
+
+- **KEGG Disease (Nucleic Acids Research 2007)**
+  - Kanehisa, M., Araki, M., Goto, S., Hattori, M., Hirakawa, M., Itoh, M., Katayama, T., Kawashima, S., Okuda, S., Tokimatsu, T. and Yamanishi, Y
+  - [[Paper]](https://academic.oup.com/nar/article-abstract/36/suppl_1/D480/2507484)
+  - [[Website]](https://www.genome.jp/kegg/disease/)
+
+- **DISEASES (Methods 2015)**
+  - Pletscher-Frankild, Sune, Albert Pallejà, Kalliopi Tsafou, Janos X. Binder, and Lars Juhl Jensen.
+  - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1046202314003831)
+  - [[Website]](https://diseases.jensenlab.org/Search)
+
+- **DisGeNET (Nucleic Acids Research 2016)**
+  - Piñero, Janet, Àlex Bravo, Núria Queralt-Rosinach, Alba Gutiérrez-Sacristán, Jordi Deu-Pons, Emilio Centeno, Javier García-García, Ferran Sanz, and Laura I. Furlong.
+  - [[Paper]](https://pubmed.ncbi.nlm.nih.gov/27924018/)
+  - [[Website]](https://www.disgenet.org/home/)
+
+- **OMIM (Nucleic Acids Research 2005)**
+  - Hamosh, Ada, Alan F. Scott, Joanna S. Amberger, Carol A. Bocchini, and Victor A. McKusick.
+  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC539987/)
+  - [[Website]](https://www.omim.org/)
+
+- **GWAS Catalog (Nucleic Acids Research 2019)**
+  - Buniello, Annalisa, Jacqueline A. L. MacArthur, Maria Cerezo, Laura W. Harris, James Hayhurst, Cinzia Malangone, Aoife McMahon et al.
+  - [[Paper]](https://academic.oup.com/nar/article/47/D1/D1005/5184712?login=true)
+  - [[Website]](https://www.ebi.ac.uk/gwas/)
