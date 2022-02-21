@@ -4,6 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![Maturity level-Prototype](https://img.shields.io/badge/Maturity%20Level-Prototype-red)
 [![Arxiv](https://img.shields.io/badge/ArXiv-2102.10062-orange.svg)](https://arxiv.org/abs/2102.10062)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 A collection of datasets and associated research papers related to knowledge graphs suitable for use in drug discovery.
 
