@@ -33,9 +33,9 @@
   - [[Dataset Download]](https://zenodo.org/record/4077338)
   - [[Website]](https://github.com/MindRank-Biotech/PharmKG)
 
-- **Clinical Knowledge Graph (CKG) (bioRxiv 2020)**
+- **Clinical Knowledge Graph (CKG) (Nature Biotech 2022)**
   - Santos, Alberto, Ana R. Colaço, Annelaura B. Nielsen, Lili Niu, Philipp E. Geyer, Fabian Coscia, Nicolai J. Wewer Albrechtsen, Filip Mundt, Lars Juhl Jensen, and Matthias Mann.
-  - [[Paper]](https://doi.org/10.1093/bib/bbaa344)
+  - [[Paper]](https://www.nature.com/articles/s41587-021-01145-6)
   - [[Dataset Download]](https://data.mendeley.com/datasets/mrcf7f4tc2/1)
   - [[Website]](https://ckg.readthedocs.io/en/latest/)
   - [[Construction Code]](https://github.com/MannLabs/CKG)
