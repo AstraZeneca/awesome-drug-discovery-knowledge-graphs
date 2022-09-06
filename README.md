@@ -28,6 +28,10 @@ Please consider citing the paper for this repo if you find it useful:
 }
 ```
 
+## Overview
+
+Drug discovery and development is a complex and costly process. Machine learning approaches are being investigated to help improve the effectiveness and speed of multiple stages of the drug discovery pipeline. Of these, those that use Knowledge Graphs (KG) have promise in many tasks, including drug repurposing, drug toxicity prediction and target gene-disease prioritisation. In a drug discovery KG, crucial elements including genes, diseases and drugs are represented as entities, whilst relationships between them indicate an interaction. However, to construct high-quality KGs, suitable data is required. In this review, we detail publicly available sources suitable for use in constructing drug discovery focused KGs. We aim to help guide machine learning and KG practitioners who are interested in applying new techniques to the drug discovery field, but who may be unfamiliar with the relevant data sources. The datasets are selected via strict criteria, categorised according to the primary type of information contained within and are considered based upon what information could be extracted to build a KG. We then present a comparative analysis of existing public drug discovery KGs and a evaluation of selected motivating case studies from the literature. Additionally, we raise numerous and unique challenges and issues associated with the domain and its datasets, whilst also highlighting key future research directions. We hope this review will motivate KGs use in solving key and emerging questions in the drug discovery domain. 
+
 -----------------------------------------------------------------
 
 ## Contents  
