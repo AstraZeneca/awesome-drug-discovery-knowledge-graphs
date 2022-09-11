@@ -16,4 +16,4 @@
 
 - **Preclinical validation of therapeutic targets predicted by tensor factorization on heterogeneous graphs (Scientific reports 2020)**
   - Paliwal, Saee, Alex de Giorgio, Daniel Neil, Jean-Baptiste Michel, and Alix MB Lacoste.
-  - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC35238/)
+  - [[Paper]](https://www.nature.com/articles/s41598-020-74922-z)
