@@ -40,7 +40,7 @@
   - [[Website]](https://ckg.readthedocs.io/en/latest/)
   - [[Construction Code]](https://github.com/MannLabs/CKG)
 
-### Other Biomedical Graph
+### Other Biomedical Graphs
 
 - **Stanford Biomedical Network Dataset Collection (BioSNAP) (2018)**
   - Santos, Alberto, Ana R. Colaço, Annelaura B. Nielsen, Lili Niu, Philipp E. Geyer, Fabian Coscia, Nicolai J. Wewer Albrechtsen, Filip Mundt, Lars Juhl Jensen, and Matthias Mann.
