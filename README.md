@@ -20,11 +20,13 @@ This repository accompanies our survey paper [A Review of Biomedical Datasets Re
 Please consider citing the paper for this repo if you find it useful:
 
 ```
-@article{bonner2021review,
-  title={A review of biomedical datasets relating to drug discovery: A knowledge graph perspective},
-  author={Bonner, Stephen and Barrett, Ian P and Ye, Cheng and Swiers, Rowan and Engkvist, Ola and Bender, Andreas and Hoyt, Charles Tapley and Hamilton, William},
-  journal={arXiv preprint arXiv:2102.10062},
-  year={2021}
+@article{bonner2022eview,
+    author = {Bonner, Stephen and Barrett, Ian P and Ye, Cheng and Swiers, Rowan and Engkvist, Ola and Bender, Andreas and Hoyt, Charles Tapley and Hamilton, William L},
+    title = {A review of biomedical datasets relating to drug discovery: a knowledge graph perspective},
+    journal = {Briefings in Bioinformatics},
+    year = {2022},
+    month = {09},
+    doi = {10.1093/bib/bbac404},
 }
 ```
 
