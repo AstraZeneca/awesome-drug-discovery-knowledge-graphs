@@ -13,6 +13,13 @@
 
 #### 2022
 
+- **PharMeBINet (Scientific Data 2022)**
+  - Cassandra Königs, Marcel Friedrichs & Theresa Dietrich.
+  - [[Paper]](https://www.nature.com/articles/s41597-022-01510-3)
+  - [[Dataset Download]](https://zenodo.org/record/6578218)
+  - [[Website]](https://pharmebi.net/#/)
+  - [[Construction Code]](https://github.com/ckoenigs/PharMeBINet)
+
 - **Clinical Knowledge Graph (CKG) (Nature Biotech 2022)**
   - Santos, Alberto, Ana R. Colaço, Annelaura B. Nielsen, Lili Niu, Philipp E. Geyer, Fabian Coscia, Nicolai J. Wewer Albrechtsen, Filip Mundt, Lars Juhl Jensen, and Matthias Mann.
   - [[Paper]](https://www.nature.com/articles/s41587-021-01145-6)
