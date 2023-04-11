@@ -1,13 +1,26 @@
 ## Drug Discovery Knowledge Graphs 
 
-### Full Resources
+### Full Public Resources
 
-- **Hetionet (eLife 2017)**
-  - Himmelstein, Daniel Scott, Antoine Lizee, Christine Hessler, Leo Brueggeman, Sabrina L. Chen, Dexter Hadley, Ari Green, Pouya Khankhanian, and Sergio E. Baranzini.
-  - [[Paper]](https://elifesciences.org/articles/26726)
-  - [[Dataset Download]](https://github.com/hetio/hetionet)
-  - [[Construction Code]](https://github.com/dhimmel/integrate)
-  - [[Website]](https://het.io/)
+#### 2023
+
+- **PrimeKG (Scientific Data 2023)**
+  - Payal Chandak, Kexin Huang & Marinka Zitnik.
+  - [[Paper]](https://www.nature.com/articles/s41597-023-01960-3)
+  - [[Dataset Download]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM)
+  - [[Website]](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
+  - [[Construction Code]](https://github.com/mims-harvard/PrimeKGG)
+
+#### 2022
+
+- **Clinical Knowledge Graph (CKG) (Nature Biotech 2022)**
+  - Santos, Alberto, Ana R. Colaço, Annelaura B. Nielsen, Lili Niu, Philipp E. Geyer, Fabian Coscia, Nicolai J. Wewer Albrechtsen, Filip Mundt, Lars Juhl Jensen, and Matthias Mann.
+  - [[Paper]](https://www.nature.com/articles/s41587-021-01145-6)
+  - [[Dataset Download]](https://data.mendeley.com/datasets/mrcf7f4tc2/1)
+  - [[Website]](https://ckg.readthedocs.io/en/latest/)
+  - [[Construction Code]](https://github.com/MannLabs/CKG)
+
+#### 2020
 
 - **Drug Repurposing Knowledge Graph (DRKG) (arXiv 2020)**
   - Ioannidis, Vassilis N., Xiang Song, Saurav Manchanda, Mufei Li, Xiaoqin Pan, Da Zheng, Xia Ning, Xiangxiang Zeng, and George Karypis.
@@ -33,12 +46,14 @@
   - [[Dataset Download]](https://zenodo.org/record/4077338)
   - [[Website]](https://github.com/MindRank-Biotech/PharmKG)
 
-- **Clinical Knowledge Graph (CKG) (Nature Biotech 2022)**
-  - Santos, Alberto, Ana R. Colaço, Annelaura B. Nielsen, Lili Niu, Philipp E. Geyer, Fabian Coscia, Nicolai J. Wewer Albrechtsen, Filip Mundt, Lars Juhl Jensen, and Matthias Mann.
-  - [[Paper]](https://www.nature.com/articles/s41587-021-01145-6)
-  - [[Dataset Download]](https://data.mendeley.com/datasets/mrcf7f4tc2/1)
-  - [[Website]](https://ckg.readthedocs.io/en/latest/)
-  - [[Construction Code]](https://github.com/MannLabs/CKG)
+#### 2017
+
+- **Hetionet (eLife 2017)**
+  - Himmelstein, Daniel Scott, Antoine Lizee, Christine Hessler, Leo Brueggeman, Sabrina L. Chen, Dexter Hadley, Ari Green, Pouya Khankhanian, and Sergio E. Baranzini.
+  - [[Paper]](https://elifesciences.org/articles/26726)
+  - [[Dataset Download]](https://github.com/hetio/hetionet)
+  - [[Construction Code]](https://github.com/dhimmel/integrate)
+  - [[Website]](https://het.io/)
 
 ### Other Biomedical Graphs
 
