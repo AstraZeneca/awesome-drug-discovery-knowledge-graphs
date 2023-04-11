@@ -9,7 +9,7 @@
   - [[Paper]](https://www.nature.com/articles/s41597-023-01960-3)
   - [[Dataset Download]](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM)
   - [[Website]](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
-  - [[Construction Code]](https://github.com/mims-harvard/PrimeKGG)
+  - [[Construction Code]](https://github.com/mims-harvard/PrimeKG)
 
 #### 2022
 
