@@ -51,6 +51,12 @@ Additionally, we provide separate lists of key biomedical resources which are of
 
 -----------------------------------------------------------------
 
+## Contributing
+
+We welcome the addition of new resources, please see our [contributing guide](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/CONTRIBUTING.MD) for information on how to do this.
+
+-----------------------------------------------------------------
+
 ## Note On Publication Version  
 
 This list will continue to evolve as new resources are made available. If you want to view the list which matches the version of the published manuscript, please use this [link.](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/releases/tag/v1.0.0)
