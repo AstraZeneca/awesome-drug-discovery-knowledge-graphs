@@ -40,3 +40,10 @@
   - Lin, Yu, Saurabh Mehta, Hande Küçük-McGinty, John Paul Turner, Dusica Vidovic, Michele Forlin, Amar Koleti et al.
   - [[Paper]](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-017-0161-x)
   - [[Website]](http://drugtargetontology.org/)
+ 
+### A Number of Ontologies and other KGs in the Biological and Biomedical Space
+
+- **Knowledge Graph Hub (KG Hub) is to provide a platform for building knowledge graphs (KGs) by adopting a set of guidelines and design principles**
+  - J Harry Caufield,  Tim Putman,  Kevin Schaper,  Deepak R Unni,  Harshad Hegde, Tiffany J Callahan,  Luca Cappelletti,  Sierra A T Moxon,  Vida Ravanmehr, et al.
+  - [[Paper]](https://academic.oup.com/bioinformatics/article/39/7/btad418/7211646)
+  - [[Website]](https://kghub.org)
