@@ -48,6 +48,7 @@ Additionally, we provide separate lists of key biomedical resources which are of
 1. [Source Datasets](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/source_datasets.md)
 2. [Biomedical Ontologies](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/ontologies.md)
 3. [Applications](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/applications.md)
+4. [Other Resources](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/other_resources.md)
 
 -----------------------------------------------------------------
 
