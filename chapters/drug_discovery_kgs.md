@@ -2,6 +2,13 @@
 
 ### Full Public Resources
 
+#### 2024
+
+- **HealX KG - Open Source Version (Nature Communications 2024)**
+  - Saatviga Sudhahar, Bugra Ozer, Jiakang Chang, Wayne Chadwick, Daniel O’Donovan, Aoife Campbell, Emma Tulip, Neil Thompson & Ian Roberts 
+  - [[Paper]](https://www.nature.com/articles/s41467-024-50024-6)
+  - [[Dataset Download]](https://github.com/healx/automated-biological-evidence-generation-in-drug-discovery/tree/main/data)
+
 #### 2023
 
 - **PrimeKG (Scientific Data 2023)**
