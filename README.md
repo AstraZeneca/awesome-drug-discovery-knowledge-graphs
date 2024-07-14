@@ -9,7 +9,7 @@
 A collection of datasets and associated research papers related to knowledge graphs suitable for use in drug discovery.
 
 <p align="center">
-  <img width="400" src="https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/raw/master/kg-drug-discovery.png">
+  <img width="400" src="https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/raw/main/kg-drug-discovery.png">
 </p>
 
 ## Overview
