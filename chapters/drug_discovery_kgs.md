@@ -4,6 +4,11 @@
 
 #### 2024
 
+- **TarKG (Bioinformatics 2024)**
+  - Zhou, Cong, Chui-Pu Cai, Xiao-Tian Huang, Song Wu, Jun-Lin Yu, Jing-Wei Wu, Jian-Song Fang, and Guo-Bo Li.
+  - [[Paper]](https://academic.oup.com/bioinformatics/article/40/10/btae598/7818343)
+  - [[Dataset Download]](https://tarkg.ddtmlab.org/download)
+
 - **HealX KG - Open Source Version (Nature Communications 2024)**
   - Saatviga Sudhahar, Bugra Ozer, Jiakang Chang, Wayne Chadwick, Daniel O’Donovan, Aoife Campbell, Emma Tulip, Neil Thompson & Ian Roberts 
   - [[Paper]](https://www.nature.com/articles/s41467-024-50024-6)
