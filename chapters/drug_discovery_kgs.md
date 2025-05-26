@@ -2,6 +2,14 @@
 
 ### Public Resources
 
+#### 2025
+
+- **VitaGraph (arXiv 2025)**
+  - Francesco Madeddu, Lucia Testa, Gianluca De Carlo, Michele Pieroni, Andrea Mastropietro, Aris Anagnostopoulos, Paolo Tieri & Sergio Barbarossa
+  - [[Paper]](https://arxiv.org/abs/2505.11185)
+  - [[Dataset Download]](https://www.kaggle.com/datasets/gianlucadecarlods/vitagraph)
+  - [[Construction Code]](https://github.com/GiDeCarlo/VitaGraph)
+
 #### 2024
 
 - **HealX KG - Open Source Version (Nature Communications 2024)**
