@@ -1,17 +1,17 @@
-## Drug Discovery Knowledge Graphs 
+# Drug Discovery Knowledge Graphs
 
-### Public Resources
+## Public Resources
 
-#### 2026
+### 2026
 
 - **OptimusKG (arXiv 2026)**
   - Vittor, Lucas, Ayush Noori, Iñaki Arango, Joaquín Polonuer, Sam Rodriques, Andrew White, David A. Clifton, & Marinka Zitnik.
   - [[Paper]](https://arxiv.org/pdf/2604.27269)
-  - [[Dataset Download]](https://github.com/mims-harvard/optimuskg)
-  - [[Construction Code]](https://doi.org/10.7910/DVN/IYNGEV)
+  - [[Dataset Download]](https://doi.org/10.7910/DVN/IYNGEV)
+  - [[Construction Code]](https://github.com/mims-harvard/optimuskg)
   - [[Website]](https://optimuskg.ai)
 
-#### 2025
+### 2025
 
 - **VitaGraph (arXiv 2025)**
   - Francesco Madeddu, Lucia Testa, Gianluca De Carlo, Michele Pieroni, Andrea Mastropietro, Aris Anagnostopoulos, Paolo Tieri & Sergio Barbarossa
@@ -19,14 +19,14 @@
   - [[Dataset Download]](https://www.kaggle.com/datasets/gianlucadecarlods/vitagraph)
   - [[Construction Code]](https://github.com/GiDeCarlo/VitaGraph)
 
-#### 2024
+### 2024
 
 - **HealX KG - Open Source Version (Nature Communications 2024)**
-  - Saatviga Sudhahar, Bugra Ozer, Jiakang Chang, Wayne Chadwick, Daniel O’Donovan, Aoife Campbell, Emma Tulip, Neil Thompson & Ian Roberts 
+  - Saatviga Sudhahar, Bugra Ozer, Jiakang Chang, Wayne Chadwick, Daniel O’Donovan, Aoife Campbell, Emma Tulip, Neil Thompson & Ian Roberts
   - [[Paper]](https://www.nature.com/articles/s41467-024-50024-6)
   - [[Dataset Download]](https://github.com/healx/automated-biological-evidence-generation-in-drug-discovery/tree/main/data)
 
-#### 2023
+### 2023
 
 - **PrimeKG (Scientific Data 2023)**
   - Payal Chandak, Kexin Huang & Marinka Zitnik.
@@ -35,7 +35,7 @@
   - [[Website]](https://zitniklab.hms.harvard.edu/projects/PrimeKG/)
   - [[Construction Code]](https://github.com/mims-harvard/PrimeKG)
 
-#### 2022
+### 2022
 
 - **PharMeBINet (Scientific Data 2022)**
   - Cassandra Königs, Marcel Friedrichs & Theresa Dietrich.
@@ -51,7 +51,7 @@
   - [[Website]](https://ckg.readthedocs.io/en/latest/)
   - [[Construction Code]](https://github.com/MannLabs/CKG)
 
-#### 2020
+### 2020
 
 - **Drug Repurposing Knowledge Graph (DRKG) (arXiv 2020)**
   - Ioannidis, Vassilis N., Xiang Song, Saurav Manchanda, Mufei Li, Xiaoqin Pan, Da Zheng, Xia Ning, Xiangxiang Zeng, and George Karypis.
@@ -77,7 +77,7 @@
   - [[Dataset Download]](https://zenodo.org/record/4077338)
   - [[Website]](https://github.com/MindRank-Biotech/PharmKG)
 
-#### 2017
+### 2017
 
 - **Hetionet (eLife 2017)**
   - Himmelstein, Daniel Scott, Antoine Lizee, Christine Hessler, Leo Brueggeman, Sabrina L. Chen, Dexter Hadley, Ari Green, Pouya Khankhanian, and Sergio E. Baranzini.

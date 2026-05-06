@@ -22,7 +22,7 @@ This repository accompanies our survey paper [A Review of Biomedical Datasets Re
 
 Please consider citing the associated paper for this resource if you find it useful:
 
-```
+```bibtex
 @article{bonner2022review,
   title={A review of biomedical datasets relating to drug discovery: A knowledge graph perspective},
   author={Bonner, Stephen and Barrett, Ian P and Ye, Cheng and Swiers, Rowan and Engkvist, Ola and Bender, Andreas and Hoyt, Charles Tapley and Hamilton, William L},
@@ -40,15 +40,14 @@ Please consider citing the associated paper for this resource if you find it use
 
 This repository primarily collects together public knowledge graph which could be used for drug discovery. We provide a list of such resources with links to the associated manuscripts, download locations and, wherever possible, the code used to create or update the resources. The list can be found using the link below:
 
-[Drug Discovery Knowledge Graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/drug_discovery_kgs.md)
+[Drug Discovery Knowledge Graphs](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/main/chapters/drug_discovery_kgs.md)
 
+Additionally, we provide separate lists of key biomedical resources which are often used to compose these graphs, as well as some notable applications of KG use within drug discovery:
 
-Additionally, we provide separate lists of key biomedical resources which are often used to compose these graphs, as well as some notable applications of KG use within drug discovery: 
-
-1. [Source Datasets](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/source_datasets.md)
-2. [Biomedical Ontologies](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/ontologies.md)
-3. [Applications](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/applications.md)
-4. [Other Resources](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/chapters/other_resources.md)
+1. [Source Datasets](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/main/chapters/source_datasets.md)
+2. [Biomedical Ontologies](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/main/chapters/ontologies.md)
+3. [Applications](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/main/chapters/applications.md)
+4. [Other Resources](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/main/chapters/other_resources.md)
 
 -----------------------------------------------------------------
 
@@ -60,11 +59,12 @@ We welcome the addition of new resources, please see our [contributing guide](ht
 
 ## Note On Publication Version  
 
-This list will continue to evolve as new resources are made available. If you want to view the list which matches the version of the published manuscript, please use this [link.](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/releases/tag/v1.0.0)
+This list will continue to evolve as new resources are made available. If you want to view the list which matches the version of the published manuscript, please use this [release version](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/releases/tag/v1.0.0)
 
 --------------------------------------------------------------------------------
 
 **License**
 
 - [Apache 2.0](https://github.com/AstraZeneca/awesome-drug-discovery-knowledge-graphs/blob/master/LICENSE)
+
 --------------------------------------------------------------------------------
