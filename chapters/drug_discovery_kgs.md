@@ -2,6 +2,15 @@
 
 ### Public Resources
 
+#### 2026
+
+- **OptimusKG (arXiv 2026)**
+  - Vittor, Lucas, Ayush Noori, Iñaki Arango, Joaquín Polonuer, Sam Rodriques, Andrew White, David A. Clifton, & Marinka Zitnik.
+  - [[Paper]](https://arxiv.org/pdf/2604.27269)
+  - [[Dataset Download]](https://github.com/mims-harvard/optimuskg)
+  - [[Construction Code]](https://doi.org/10.7910/DVN/IYNGEV)
+  - [[Website]](https://optimuskg.ai)
+
 #### 2025
 
 - **VitaGraph (arXiv 2025)**
