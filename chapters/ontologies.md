@@ -1,9 +1,9 @@
-## Biomedical Ontologies
+# Biomedical Ontologies
 
-### Disease
+## Disease
 
 - **Medical Subject Headings (MeSH) (BMAA 2000)**
-  - Lipscomb, Carolyn E. 
+  - Lipscomb, Carolyn E.
   - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC35238/)
   - [[Website]](https://bioportal.bioontology.org/ontologies/MESH)
 
@@ -27,21 +27,21 @@
   - [[Paper]](https://academic.oup.com/nar/article/45/D1/D712/2605791?login=true)
   - [[Website]](https://www.ebi.ac.uk/ols/ontologies/mondo)
 
-### Gene
+## Gene
 
 - **Gene Ontology (GO) (Nature Genetics  2000)**
-  - Ashburner, Michael, Catherine A. Ball, Judith A. Blake, David Botstein, Heather Butler, J. Michael Cherry, Allan P. Davis et al. 
+  - Ashburner, Michael, Catherine A. Ball, Judith A. Blake, David Botstein, Heather Butler, J. Michael Cherry, Allan P. Davis et al.
   - [[Paper]](https://www.nature.com/articles/ng0500_25)
   - [[Website]](http://geneontology.org/)
 
-### Drug Discovery 
+## Drug Discovery
 
 - **Drug Target Ontology Ontology (DTO) (Biomedical Semantics  2017)**
   - Lin, Yu, Saurabh Mehta, Hande Küçük-McGinty, John Paul Turner, Dusica Vidovic, Michele Forlin, Amar Koleti et al.
   - [[Paper]](https://jbiomedsem.biomedcentral.com/articles/10.1186/s13326-017-0161-x)
   - [[Website]](http://drugtargetontology.org/)
- 
-### A Number of Ontologies and other KGs in the Biological and Biomedical Space
+
+## A Number of Ontologies and other KGs in the Biological and Biomedical Space
 
 - **Knowledge Graph Hub (KG Hub) is to provide a platform for building knowledge graphs (KGs) by adopting a set of guidelines and design principles**
   - J Harry Caufield,  Tim Putman,  Kevin Schaper,  Deepak R Unni,  Harshad Hegde, Tiffany J Callahan,  Luca Cappelletti,  Sierra A T Moxon,  Vida Ravanmehr, et al.
