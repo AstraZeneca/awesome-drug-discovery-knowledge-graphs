@@ -15,3 +15,9 @@
   - [[Paper]](https://www.researchgate.net/profile/Francois-Belleau/publication/287066655_Bio2RDF_release_3_A_larger_connected_network_of_linked_data_for_the_life_sciences/links/6033cb0b299bf1cc26e43cf5/Bio2RDF-release-3-A-larger-connected-network-of-linked-data-for-the-life-sciences.pdf)
   - [[Dataset Download]](https://download.bio2rdf.org/#/)
   - [[Website]](https://bio2rdf.org/)
+
+## AI Agent Tools for Drug Discovery Knowledge Graphs
+
+Tools enabling autonomous AI agents to interact with and query drug discovery knowledge graph systems.
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments. As knowledge graph query agents proliferate in drug discovery pipelines, verifiable agent identity becomes critical for audit trails and data provenance. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
