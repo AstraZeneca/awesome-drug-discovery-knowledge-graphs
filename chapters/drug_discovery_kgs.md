@@ -4,20 +4,18 @@
 
 ### 2026
 
+- **VitaGraph (Scientific Data 2026)**
+  - Francesco Madeddu, Lucia Testa, Gianluca De Carlo, Michele Pieroni, Andrea Mastropietro, Aris Anagnostopoulos, Paolo Tieri & Sergio Barbarossa
+  - [[Paper]](https://www.nature.com/articles/s41597-026-07498-4)
+  - [[Dataset Download]](https://doi.org/10.34740/kaggle/ds/7415432)
+  - [[Construction Code]](https://github.com/GiDeCarlo/VitaGraph)
+
 - **OptimusKG (arXiv 2026)**
   - Vittor, Lucas, Ayush Noori, Iñaki Arango, Joaquín Polonuer, Sam Rodriques, Andrew White, David A. Clifton, & Marinka Zitnik.
   - [[Paper]](https://arxiv.org/pdf/2604.27269)
   - [[Dataset Download]](https://doi.org/10.7910/DVN/IYNGEV)
   - [[Construction Code]](https://github.com/mims-harvard/optimuskg)
   - [[Website]](https://optimuskg.ai)
-
-### 2025
-
-- **VitaGraph (arXiv 2025)**
-  - Francesco Madeddu, Lucia Testa, Gianluca De Carlo, Michele Pieroni, Andrea Mastropietro, Aris Anagnostopoulos, Paolo Tieri & Sergio Barbarossa
-  - [[Paper]](https://arxiv.org/abs/2505.11185)
-  - [[Dataset Download]](https://www.kaggle.com/datasets/gianlucadecarlods/vitagraph)
-  - [[Construction Code]](https://github.com/GiDeCarlo/VitaGraph)
 
 ### 2024
 
